@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="botonCero">0</string>
+    <string name="botonUno">1</string>
+    <string name="botonDos">2</string>
+    <string name="botonTres">3</string>
+    <string name="botonCuatro">4</string>
+    <string name="botonCinco">5</string>
+    <string name="botonSeis">6</string>
+    <string name="botonSiete">7</string>
+    <string name="botonOcho">8</string>
+    <string name="botonNueve">9</string>
+    <string name="botonSuma">+</string>
+    <string name="botonResta">-</string>
+    <string name="botonMulti">*</string>
+    <string name="botonDivi">/</string>
+    <string name="botonComa">.</string>
+    <string name="botonLimpiar">Limpiar</string>
+    <string name="botonIgual">=</string>
+</resources>
